@@ -12,8 +12,8 @@
 ### DIAGNOSIS OF POLYCYSTIC OVARY SYNDROME USING MACHINE LEARNING ALGORITHMS
 
 ### Commands to execute this project
-1- Conda Activate tf
-2- Python Main.py
+- 1. Conda Activate tf
+- 2. Python Main.py
 
 
 ### Problem Statement:
