@@ -1,6 +1,5 @@
 ---
 title: "Project_DPA"
-author: "Fnu Anvika"
 date: "2025-05-01"
 output: pdf_document
 ---
