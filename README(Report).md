@@ -1,11 +1,12 @@
 
-CSP - 571 - Data Preparation and Analysis Project
+### CSP - 571 
+### Data Preparation and Analysis Project
 
-Group Members CWID:
-A20580669 - Jeetendra Girish Vasisht
-A20556800 - FNU Anvika
-A20562801 - Kavya Muniyur Lakshminarayana
-A20580673 - Praharsha Raghavan Iyer
+### Group Members CWID:
+- A20580669 - Jeetendra Girish Vasisht
+- A20556800 - FNU Anvika
+- A20562801 - Kavya Muniyur Lakshminarayana
+- A20580673 - Praharsha Raghavan Iyer
 
 
 ### DIAGNOSIS OF POLYCYSTIC OVARY SYNDROME USING MACHINE LEARNING ALGORITHMS
