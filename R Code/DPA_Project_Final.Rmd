@@ -1,9 +1,3 @@
----
-title: "Project_DPA"
-date: "2025-05-01"
-output: pdf_document
----
-
 ```{r}
 # Load necessary libraries
 library(caret)
